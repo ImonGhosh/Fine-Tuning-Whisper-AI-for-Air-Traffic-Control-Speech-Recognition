@@ -1,0 +1,9 @@
+numpy==2.1.0
+matplotlib
+datasets
+librosa 
+soundfile
+transformers
+torch
+evaluate
+jiwer
