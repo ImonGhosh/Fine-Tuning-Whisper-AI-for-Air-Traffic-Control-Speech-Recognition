@@ -31,8 +31,8 @@ To evaluate the performance of the Whisper model, we can use the Word Error Rate
 Fine tuning Whisper AI resulted in a significant WER reduction by 8.75 % .
 
 ## Future Scope
-This project lays the groundwork for any kind of domain specific fine tuning required on the Whisper model. I aim to fine tune the model make it learn low resource languages like my own language Bengali 
-along with various regional dialects, which the current model performs very poorly on. 
+This project lays the groundwork for any kind of domain specific fine tuning required on the Whisper model. I aim to fine tune the model to make it learn low resource languages like my own language Bengali 
+along with it's various regional dialects, which the current model performs very poorly on. 
 
 
 
